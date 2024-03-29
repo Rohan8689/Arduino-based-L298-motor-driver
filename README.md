@@ -1,1 +1,1 @@
-# Arduino-based-L298-motor-driver
+# Arduino-based-L298n-motor-driver
